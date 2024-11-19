@@ -1,0 +1,13 @@
+C:\Users\Dario\source\repos\PracticaLINQ\bin\Debug\netcoreapp3.1\PracticaLINQ.exe
+C:\Users\Dario\source\repos\PracticaLINQ\bin\Debug\netcoreapp3.1\PracticaLINQ.deps.json
+C:\Users\Dario\source\repos\PracticaLINQ\bin\Debug\netcoreapp3.1\PracticaLINQ.runtimeconfig.json
+C:\Users\Dario\source\repos\PracticaLINQ\bin\Debug\netcoreapp3.1\PracticaLINQ.runtimeconfig.dev.json
+C:\Users\Dario\source\repos\PracticaLINQ\bin\Debug\netcoreapp3.1\PracticaLINQ.dll
+C:\Users\Dario\source\repos\PracticaLINQ\bin\Debug\netcoreapp3.1\PracticaLINQ.pdb
+C:\Users\Dario\source\repos\PracticaLINQ\obj\Debug\netcoreapp3.1\PracticaLINQ.csproj.AssemblyReference.cache
+C:\Users\Dario\source\repos\PracticaLINQ\obj\Debug\netcoreapp3.1\PracticaLINQ.AssemblyInfoInputs.cache
+C:\Users\Dario\source\repos\PracticaLINQ\obj\Debug\netcoreapp3.1\PracticaLINQ.AssemblyInfo.cs
+C:\Users\Dario\source\repos\PracticaLINQ\obj\Debug\netcoreapp3.1\PracticaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Dario\source\repos\PracticaLINQ\obj\Debug\netcoreapp3.1\PracticaLINQ.dll
+C:\Users\Dario\source\repos\PracticaLINQ\obj\Debug\netcoreapp3.1\PracticaLINQ.pdb
+C:\Users\Dario\source\repos\PracticaLINQ\obj\Debug\netcoreapp3.1\PracticaLINQ.genruntimeconfig.cache
